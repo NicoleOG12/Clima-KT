@@ -1,0 +1,3 @@
+Adicione esta linha ao AndroidManifest.xml, fora da tag <application>:
+
+<uses-permission android:name="android.permission.INTERNET" />
